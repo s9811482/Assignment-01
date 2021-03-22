@@ -23,14 +23,6 @@ Was there a particular event or person that sparked your interest? Yes especiall
 My boss has given me  all the interest in Information T, when I was a driver in the organisation
 To promote me from a driver to depo controller. To manage  all the fleet though the GPS for all
 buses  that are out on the road. Which require a data entry knowledge  and  recording a day mileage and logbook to the sheet.document.
-</h2>
-
-</body>
-
-		    </h2>
-				
-				
-<body>
 Outline your IT experience (if any). 
 My IT experience 
 Starters back in the 1995 were i starts studying during my school time 
