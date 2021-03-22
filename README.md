@@ -1,13 +1,4 @@
 # Assignment-01
-hi there i have made some changes 
-HTML>
-     <head>
-	 WELCOME TO MY WEBSITE!
-	 <img src="my"
-	   <h1>PERSONAL INFORMATION
-	      </h1> 
-	          
-<body>
 Personal Information:
 Hi my name is solomon worcou, my student number is s9811482 my email is: 
 S9811482@student.rmit.edu.au
@@ -195,5 +186,3 @@ Include why you think this business idea is right for you.
 I believe I have the skills and experience to be able to successfully start a driving school.  I also have language skills that enable me to service targeted groups.  I have good connections that I can tap into through AMES (Adult Migrant Employment Service) and local Community schools.  Around the western suburbs.
 Most of the students are supported through government funded package up to 20 classes for all approved students to help them get their licence for work purpose which has
 Viability for our industry and proves there are market for my business.
-</body>
-</HTML>
