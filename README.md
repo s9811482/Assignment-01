@@ -1,3 +1,4 @@
+
 # Assignment-01
 Personal Information:
 Hi my name is solomon worcou, my student number is s9811482 my email is: 
@@ -151,7 +152,7 @@ Book lessons with me
 
  The website also contains all the relevant information that provides any user guidance about Vic road lessons and policies around the classes provided by me. 
 
-My driving school Logo. 
+My driving school Logo. http://www.solodrivingtraining.net.au
 
 The feature as briefly highlighted above are 
 
