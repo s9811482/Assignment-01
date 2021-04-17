@@ -65,44 +65,78 @@ QUALIFICATION:
 
 Managing  a business for 10 years as Instructor for driving school. Which been my full time job with a number of employees under my management.
  
-My Ideal Job: 
+My Ideal Job: SOLOMON  IDEAL JOB 
 
-Software Engineer, programmer. 
+SOLOMON Ideal Job: IT support specialist 
+
+My ideal job would be to become an IT support specialist. I chose this job because I think this is a great job for someone with my skills. I think this is a great job to start a career in the IT industry. I have a lot of experience talking to customers and answering their queries. 
+
+IT experience for IT support specialist is between 3-5 years 
+
+As of 2020 there are 9748 IT support specialist] positions available according to Seek. Software Engineer, programmer. 
 Job Title: 
-Developer Programmer
+IT Support specialist
 Salary:
 $80,000
 Location:
 Wodonga Region
 Company:
 Saas Val Pty Ltd
-Skill I NEED:
 
-Apply for this job
+IT Support Duties & Responsibilities of the Job 
 
-Code and test programming for software and mobile apps.
-Develop and deploy computer applications.
-Execute code builds to test and production environments.
-Fix bugs in existing code.
-Collaborate with product, design, and marketing teams.
-Maintain documentation per company standards.
-Provide testing, documentation, training, and support for third-party software products. 
-Resolve user-submitted problems and questions.
-Masters or Bachelors Degree in Computers
-4 to 5 years Experiences
-Learning Plan:  
-Study online to study my information Technology in 2021.
+When compiling an IT Support job description, here is a selection of duties to include: 
+
+Installing and configuring computer hardware, software, systems, networks, printers and scanners 
+
+Monitoring and maintaining computer systems and networks 
+
+Responding in a timely manner to service issues and requests 
+
+Providing technical support across the company (this may be in person or over the phone) 
+
+Setting up accounts for new users 
+
+Repairing and replacing equipment as necessary 
+
+Testing new technology 
+
+Possibly training more junior staff members 
+
+IT Support job qualifications and requirements 
+
+Although a formal degree might not always be necessary in an IT Support role, tertiary qualifications can include the following: 
+
+Computer Science 
+
+Computing 
+
+Engineering 
+
+There are also several qualities that candidates should be expected to display: 
+
+A technical, logical thought process 
+
+Problem-solving skills 
+
+An ability to stick to strict deadlines 
+
+An ability to prioritize and delegate 
+
+A keen eye for detail 
+
+---------------------------------------------------------------------------------------------------------------- 
+
+ 
 
 
 My Personality Profile:
 
  Myers Briggs Type https://www.16personalities.com/profiles/f5b861ccc4898
 
-
 Type
 “The Entertainer” (ESFP-A)
 Traits
-
 Extraverted
 -
 54%
@@ -146,8 +180,6 @@ Unfocused – Anything that requires long-term dedication and focus is a particu
 
 My Project Idea:
 SOLOMON NEGASH 
-
-Project Ideas 
 
 Motivation 
 
@@ -208,7 +240,6 @@ Make the website accessible allowing all customers to visit the website and brow
 Tools and Technologies. 
 
 The page will be built in  
-
    
     1. JavaScript library: React 
 
@@ -219,8 +250,6 @@ The page will be built in
     4. Will use  JSON for my content 
 
     5. Embed relevant Chat widget (add what u will use). 
-
- 
 
 Skills Required. 
 
