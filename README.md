@@ -127,57 +127,6 @@ A keen eye for detail
 
 ---------------------------------------------------------------------------------------------------------------- 
 
- 
-
-
-My Personality Profile:
-
- Myers Briggs Type https://www.16personalities.com/profiles/f5b861ccc4898
-
-Type
-“The Entertainer” (ESFP-A)
-Traits
-Extraverted
--
-54%
-Observant
--
-54%
-Feeling
--
-67%
-Prospecting
--
-51%
-Assertive
--
-58%
-
-
-
-Role
-Explorer
-Strategy
-People Mastery
-
-
-
-Strength: 
-
-Bold – Entertainers aren’t known for holding back. Wanting to experience everything there is to experience, people with the Entertainer personality type don’t mind stepping out of their comfort zones when no one else is willing.
-Original – Traditions and expectations are secondary to Entertainers, if a consideration at all. Entertainer personalities love to experiment with new styles, and constantly find new ways to stick out in the crowd.
-Aesthetics and Showmanship – Not stopping at mere outfits, Entertainers inject artistic creativity into their words and actions, too. Every day is a performance, and Entertainers love to put on a show.
-Practical – To Entertainers, the world is meant to be felt and experienced. Truth is stranger than fiction, and Entertainers prefer to see and do than to wax philosophical about “what-ifs”.
-Observant – With all this focus on the here and now, on doing and acting, it makes sense that Entertainers are naturals when it comes to noticing real, tangible things and changes.
-Excellent People Skills – More so than things though, Entertainers love to pay attention to people. They are talkative, witty, and almost never run out of things to discuss. For people with this personality type, happiness and satisfaction stem from the time they spend with the people they enjoy being with.
-Weaknesses:
-Sensitive – Entertainers (especially Turbulent ones) are strongly emotional, and very vulnerable to criticism – they can feel like they’ve been backed into a corner, sometimes reacting badly. This is probably Entertainers greatest weakness, because it makes it so hard to address any other weaknesses brought to light.
-Conflict-Averse – Entertainers sometimes ignore and avoid conflict entirely. They tend to say and do what’s needed to get out of such situations, then move on to something more fun.
-Easily Bored – Without constant excitement, Entertainers find ways to create it themselves. Risky behavior, self-indulgence, and the pleasures of the moment over long-term plans are all things Entertainers get into a little too often.
-Poor Long-Term Planners – In fact, Entertainer personalities rarely make detailed plans for the future. To them, things come as they come, and they rarely bother with taking the time to lay out steps and consequences, with the belief that they could change at any moment – even with things that can be planned.
-Unfocused – Anything that requires long-term dedication and focus is a particular challenge for Entertainers. In academics, dense, unchanging subjects like Classic Literature are much more difficult than more dynamic, relatable subjects like psychology. The trick for Entertainers is to find day-to-day joy in broader goals, and to tough it out with those tedious things that must be done.
-
-
 My Project Idea:
 SOLOMON NEGASH 
 
@@ -199,7 +148,6 @@ Find all relevant information about different packages my school offers.
 
 Book lessons with me  
 
- 
 
  The website also contains all the relevant information that provides any user guidance about Vic road lessons and policies around the classes provided by me. 
 
@@ -224,8 +172,6 @@ Information about other drivers in my school, allowing customers to choose gende
 Each page will have a "Chat Now" widget that allows customer to contact me immediately online if they chose to not call or email. 
 
 Apart from the above, the FUTURE SCOPE of the project is as follows  
-
- 
 
 A mobile app that user can download. 
 
@@ -263,3 +209,19 @@ Outcome
 
 If the project is successful the application will have businesses listed in many areas. People will find the application easy and quick to use and be able to book anytime and from anywhere.   
 
+My Personality Profile:
+
+Myers Briggs Type https://www.16personalities.com/profiles/f5b861ccc4898
+
+Type “The Entertainer” (ESFP-A) Traits Extraverted
+54% Observant
+54% Feeling
+67% Prospecting
+51% Assertive
+58%
+
+Role Explorer Strategy People Mastery
+
+Strength:
+
+Bold – Entertainers aren’t known for holding back. Wanting to experience everything there is to experience, people with the Entertainer personality type don’t mind stepping out of their comfort zones when no one else is willing. Original – Traditions and expectations are secondary to Entertainers, if a consideration at all. Entertainer personalities love to experiment with new styles, and constantly find new ways to stick out in the crowd. Aesthetics and Showmanship – Not stopping at mere outfits, Entertainers inject artistic creativity into their words and actions, too. Every day is a performance, and Entertainers love to put on a show. Practical – To Entertainers, the world is meant to be felt and experienced. Truth is stranger than fiction, and Entertainers prefer to see and do than to wax philosophical about “what-ifs”. Observant – With all this focus on the here and now, on doing and acting, it makes sense that Entertainers are naturals when it comes to noticing real, tangible things and changes. Excellent People Skills – More so than things though, Entertainers love to pay attention to people. They are talkative, witty, and almost never run out of things to discuss. For people with this personality type, happiness and satisfaction stem from the time they spend with the people they enjoy being with. Weaknesses: Sensitive – Entertainers (especially Turbulent ones) are strongly emotional, and very vulnerable to criticism – they can feel like they’ve been backed into a corner, sometimes reacting badly. This is probably Entertainers greatest weakness, because it makes it so hard to address any other weaknesses brought to light. Conflict-Averse – Entertainers sometimes ignore and avoid conflict entirely. They tend to say and do what’s needed to get out of such situations, then move on to something more fun. Easily Bored – Without constant excitement, Entertainers find ways to create it themselves. Risky behavior, self-indulgence, and the pleasures of the moment over long-term plans are all things Entertainers get into a little too often. Poor Long-Term Planners – In fact, Entertainer personalities rarely make detailed plans for the future. To them, things come as they come, and they rarely bother with taking the time to lay out steps and consequences, with the belief that they could change at any moment – even with things that can be planned. Unfocused – Anything that requires long-term dedication and focus is a particular challenge for Entertainers. In academics, dense, unchanging subjects like Classic Literature are much more difficult than more dynamic, relatable subjects like psychology. The trick for Entertainers is to find day-to-day joy in broader goals, and to tough it out with those tedious things that must be done.
