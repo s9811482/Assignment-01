@@ -145,36 +145,92 @@ Unfocused – Anything that requires long-term dedication and focus is a particu
 
 
 My Project Idea:
+SOLOMON NEGASH 
 
-My project idea comes here for the business currently i am running for driving scool purpose, which has strong market segment. As a manager I have seek to explore the latest advanced and effective tool leads to the growth of the business, preferences towards cloud-based technologies, introduction of artificial intelligence enabled tools, provision of various benefits such as tracking, consistency along with rising return on my investment. The idea to my business that has the power to 
-edit booking orders from Owner App  that can update customer emails and pickup point and drop off point addresses from the order screen in the app. Discover a new and Improved Mobile App to manage my site
-for quicker and more efficient way to track analytics, chat with site visitors and run my business on the go. And that reply to blog comments with rich text and that enable comments to enable comments to let them create a conversation around my blog posts. And the App that invite my team to become call agents capability and also that have the capability
-to boost my customer service  multiple agents the ability to make and answer calls on my business phone number at the same time and the application
-That record calls made to my business phone number and review them any time. which call recordings are seamlessly integrated into my CRM, and  can listen to them from my Inbox. 
-I believe Such adoption of advanced and effective tool leads to the growth of my business, preferences towards cloud-based technologies, introduction of artificial intelligence enabled tools, provision of various benefits such as tracking, consistency along with rising return on my investment.
+Project Ideas 
 
+Motivation 
 
-Reference:
-https://www.adelaide.edu.au/writingcentre/sites/default/files/docs/harvard-referencing-guide.pdf
+My project idea comes here for the business currently i am running for driving school purpose, which has strong market segment. As a manager I have seek to explore the latest advanced and effective tool leads to the growth of my business. 
 
-https://www.adelaide.edu.au/.../files/docs/harvard-referencing-guide.p… · PDF file
-Harvard Referencing Guide University of Adelaide Library and Writing Centre, 23 April 2018 3 Book with four or more authors In the in-text citation, list only the first author, then et al. In the bibliography, list all authors in the order they appear on the title page of the book. …
-https://www.adelaide.edu.au/.../files/docs/harvard-referencing-guide.p… · PDF file Harvard Referencing Guide University of Adelaide Library and Writing Centre, 23 April 2018 3 Book with four or more authors In the in-text citation, list only the first author, then et al. In the bibliography, list all authors in the order they appear on the title page of the book. …
+Description 
 
+introduction of artificial intelligence enabled tools, provision of various benefits such as tracking, consistency along with rising return on my investment. The idea to my business that has the power to edit booking orders from Owner App that can update customer emails and pickup point and drop off point addresses from the order screen in the app. Discover a new and Improved Mobile App to manage my site for quicker and more efficient way to track analytics, chat with site visitors and run my business on the go. And that reply to blog comments with rich text and that enable comments to enable comments to let them create a conversation around my blog posts. And the App that invite my team to become call agents capability and also that have the capability to boost my customer service multiple agents the ability to make and answer calls on my business phone number at the same time and the application That record calls made to my business phone number and review them any time. which call recordings are seamlessly integrated into my CRM, and can listen to them from my Inbox. I believe Such adoption of advanced and effective tool leads to the growth of my business, preferences towards cloud-based technologies, introduction of artificial intelligence enabled tools, provision of various benefits such as tracking, consistency along with rising return on my investment. Just to put it my Project Idea as summery and precise way 
 
+As a business man whom has own driving school, I would like to create a website that will make everyone aware about my business.  
 
-I have the following qualifications:
-•	CERT III IN driving instructor from 
-•	VIC ROADS ACCREDIED SCHOOL MOONE PONDS DRIVING SCHOOL
-•	Licence heavy  Bus Driving  from DECCA 
-•	Cert IV accredited instructor  by keys2drive
-My experience is 20 years of bus driving and customer service.  I had responsibility for:
-•	20 years bus Driving 
-•	20 years of customer service in the industry
-•	Anglesea 3 days defensive course 
-•	2000 Sydney Olympic participant  .
-•	
-Include why you think this business idea is right for you.
-I believe I have the skills and experience to be able to successfully start a driving school.  I also have language skills that enable me to service targeted groups.  I have good connections that I can tap into through AMES (Adult Migrant Employment Service) and local Community schools.  Around the western suburbs.
-Most of the students are supported through government funded package up to 20 classes for all approved students to help them get their licence for work purpose which has
-Viability for our industry and proves there are market for my business.
+    2.   The website will not just be promotional but will also have the capability which allows any visitor               to the website. 
+
+To contact me through different mediums like calls, emails, social media platform like Instagram, twitter etc. 
+
+Find all relevant information about different packages my school offers. 
+
+Book lessons with me  
+
+ 
+
+ The website also contains all the relevant information that provides any user guidance about Vic road lessons and policies around the classes provided by me. 
+
+My driving school Logo. 
+
+The feature as briefly highlighted above are 
+
+Home page that will have information around areas where driving lessons are provided. 
+
+Lessons packages (45mins, 60mins, 90mins). 
+
+Information about payment 
+
+Contact Us page which has all my information like phone number, email and a contact form. 
+
+Policies and Disclaimer around lessons. 
+
+Information about driving tests. 
+
+Information about other drivers in my school, allowing customers to choose gender specific drivers. 
+
+Each page will have a "Chat Now" widget that allows customer to contact me immediately online if they chose to not call or email. 
+
+Apart from the above, the FUTURE SCOPE of the project is as follows  
+
+ 
+
+A mobile app that user can download. 
+
+Google Analytics hook up so that I can record the traffic to my website and thus create Google Ads or marketing campaign to make my website the most visible website in search engines. 
+
+Search Engine optimization that will allow search engines to find my website when any one searches for keywords like "driving", "lessons", "CBD", "driving school", "driving lessons CBD" etc. 
+
+Make the website accessible allowing all customers to visit the website and browse content. 
+
+ 
+
+Tools and Technologies. 
+
+The page will be built in  
+
+   
+    1. JavaScript library: React 
+
+    2. HTML 5 
+
+    3. CSS3 
+
+    4. Will use  JSON for my content 
+
+    5. Embed relevant Chat widget (add what u will use). 
+
+ 
+
+Skills Required. 
+
+Software Engineering.(In progress). 
+
+Business Management Certificate IV(acquired). 
+
+Micro business  Certificate III(acquired). 
+
+Outcome 
+
+If the project is successful the application will have businesses listed in many areas. People will find the application easy and quick to use and be able to book anytime and from anywhere.   
+
