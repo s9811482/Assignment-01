@@ -140,7 +140,7 @@ introduction of artificial intelligence enabled tools, provision of various bene
 
 As a business man whom has own driving school, I would like to create a website that will make everyone aware about my business.  
 
-    2.   The website will not just be promotional but will also have the capability which allows any visitor to the website. 
+    2.   The website will not just be promotional but will also have the capability which allows any visitor. 
 
 To contact me through different mediums like calls, emails, social media platform like Instagram, twitter etc. 
 
